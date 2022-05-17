@@ -1,0 +1,10 @@
+C:\Users\win10\source\repos\Test_Mindbox_Library\bin\Debug\netcoreapp3.1\Test_Mindbox_Library.deps.json
+C:\Users\win10\source\repos\Test_Mindbox_Library\bin\Debug\netcoreapp3.1\Test_Mindbox_Library.dll
+C:\Users\win10\source\repos\Test_Mindbox_Library\bin\Debug\netcoreapp3.1\Test_Mindbox_Library.pdb
+C:\Users\win10\source\repos\Test_Mindbox_Library\obj\Debug\netcoreapp3.1\Test_Mindbox_Library.csproj.AssemblyReference.cache
+C:\Users\win10\source\repos\Test_Mindbox_Library\obj\Debug\netcoreapp3.1\Test_Mindbox_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win10\source\repos\Test_Mindbox_Library\obj\Debug\netcoreapp3.1\Test_Mindbox_Library.AssemblyInfoInputs.cache
+C:\Users\win10\source\repos\Test_Mindbox_Library\obj\Debug\netcoreapp3.1\Test_Mindbox_Library.AssemblyInfo.cs
+C:\Users\win10\source\repos\Test_Mindbox_Library\obj\Debug\netcoreapp3.1\Test_Mindbox_Library.csproj.CoreCompileInputs.cache
+C:\Users\win10\source\repos\Test_Mindbox_Library\obj\Debug\netcoreapp3.1\Test_Mindbox_Library.dll
+C:\Users\win10\source\repos\Test_Mindbox_Library\obj\Debug\netcoreapp3.1\Test_Mindbox_Library.pdb
